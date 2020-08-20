@@ -10,7 +10,9 @@
 int main(int argc, char** argv) {
      
     printf("Jake Cromer!\n");
-     
+    printf("Linnea Pietsch\n");
+    printf("English\n");
+    
     return 0;
  
 }
